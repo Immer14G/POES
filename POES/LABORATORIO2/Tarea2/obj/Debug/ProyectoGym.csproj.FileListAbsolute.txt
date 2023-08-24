@@ -1,0 +1,25 @@
+C:\Users\CDS2\Desktop\proyectosappsWeb\ProyectoGym\bin\Debug\ProyectoGym.exe.config
+C:\Users\CDS2\Desktop\proyectosappsWeb\ProyectoGym\bin\Debug\ProyectoGym.exe
+C:\Users\CDS2\Desktop\proyectosappsWeb\ProyectoGym\bin\Debug\ProyectoGym.pdb
+C:\Users\CDS2\Desktop\proyectosappsWeb\ProyectoGym\obj\Debug\ProyectoGym.csproj.AssemblyReference.cache
+C:\Users\CDS2\Desktop\proyectosappsWeb\ProyectoGym\obj\Debug\ProyectoGym.csproj.SuggestedBindingRedirects.cache
+C:\Users\CDS2\Desktop\proyectosappsWeb\ProyectoGym\obj\Debug\ProyectoGym.Admin.resources
+C:\Users\CDS2\Desktop\proyectosappsWeb\ProyectoGym\obj\Debug\ProyectoGym.Formularios.Agregar_Cliente.resources
+C:\Users\CDS2\Desktop\proyectosappsWeb\ProyectoGym\obj\Debug\ProyectoGym.Properties.Resources.resources
+C:\Users\CDS2\Desktop\proyectosappsWeb\ProyectoGym\obj\Debug\ProyectoGym.csproj.GenerateResource.cache
+C:\Users\CDS2\Desktop\proyectosappsWeb\ProyectoGym\obj\Debug\ProyectoGym.csproj.CoreCompileInputs.cache
+C:\Users\CDS2\Desktop\proyectosappsWeb\ProyectoGym\obj\Debug\ProyectoGym.exe
+C:\Users\CDS2\Desktop\proyectosappsWeb\ProyectoGym\obj\Debug\ProyectoGym.pdb
+C:\Users\CDS2\Desktop\proyectosappsWeb\ProyectoGym\obj\Debug\ProyectoGym.Formularios.Edita_Cliente.resources
+C:\Users\INMER GUEVARA\OneDrive\Escritorio\11ProyectoGym\bin\Debug\ProyectoGym.exe.config
+C:\Users\INMER GUEVARA\OneDrive\Escritorio\11ProyectoGym\bin\Debug\ProyectoGym.exe
+C:\Users\INMER GUEVARA\OneDrive\Escritorio\11ProyectoGym\bin\Debug\ProyectoGym.pdb
+C:\Users\INMER GUEVARA\OneDrive\Escritorio\11ProyectoGym\obj\Debug\ProyectoGym.csproj.AssemblyReference.cache
+C:\Users\INMER GUEVARA\OneDrive\Escritorio\11ProyectoGym\obj\Debug\ProyectoGym.csproj.SuggestedBindingRedirects.cache
+C:\Users\INMER GUEVARA\OneDrive\Escritorio\11ProyectoGym\obj\Debug\ProyectoGym.Admin.resources
+C:\Users\INMER GUEVARA\OneDrive\Escritorio\11ProyectoGym\obj\Debug\ProyectoGym.Formularios.Agregar_Cliente.resources
+C:\Users\INMER GUEVARA\OneDrive\Escritorio\11ProyectoGym\obj\Debug\ProyectoGym.Properties.Resources.resources
+C:\Users\INMER GUEVARA\OneDrive\Escritorio\11ProyectoGym\obj\Debug\ProyectoGym.csproj.GenerateResource.cache
+C:\Users\INMER GUEVARA\OneDrive\Escritorio\11ProyectoGym\obj\Debug\ProyectoGym.csproj.CoreCompileInputs.cache
+C:\Users\INMER GUEVARA\OneDrive\Escritorio\11ProyectoGym\obj\Debug\ProyectoGym.exe
+C:\Users\INMER GUEVARA\OneDrive\Escritorio\11ProyectoGym\obj\Debug\ProyectoGym.pdb
