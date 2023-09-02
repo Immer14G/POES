@@ -1,0 +1,11 @@
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\AdministradorDeUsuarios\bin\Debug\AdministradorDeUsuarios.exe.config
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\AdministradorDeUsuarios\bin\Debug\AdministradorDeUsuarios.exe
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\AdministradorDeUsuarios\bin\Debug\AdministradorDeUsuarios.pdb
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\AdministradorDeUsuarios\obj\Debug\AdministradorDeUsuarios.csproj.AssemblyReference.cache
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\AdministradorDeUsuarios\obj\Debug\AdministradorDeUsuarios.csproj.SuggestedBindingRedirects.cache
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\AdministradorDeUsuarios\obj\Debug\AdministradorDeUsuarios.AdministracionDeUsuarios.resources
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\AdministradorDeUsuarios\obj\Debug\AdministradorDeUsuarios.Properties.Resources.resources
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\AdministradorDeUsuarios\obj\Debug\AdministradorDeUsuarios.csproj.GenerateResource.cache
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\AdministradorDeUsuarios\obj\Debug\AdministradorDeUsuarios.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\AdministradorDeUsuarios\obj\Debug\AdministradorDeUsuarios.exe
+D:\DOCUMENTOS INMER\ciclo 022023\programacion orientada a eventos\Ejemplos de clase\AdministradorDeUsuarios\obj\Debug\AdministradorDeUsuarios.pdb
